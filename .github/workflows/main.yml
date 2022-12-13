@@ -33,7 +33,7 @@ jobs:
         
       - name: Analyze organization
         id: analyze_org
-        uses: ./
+        uses: peter-murray/inactive-users-action@v1
         with:
           token: ${{ secrets.TEMP_TOKEN }}
           organization: ${{ github.event.inputs.organization }}
