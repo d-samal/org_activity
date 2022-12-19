@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['ArrowElectronics/data-storm-daq', 'ArrowElectronics/hdl', 'ArrowElectronics/linux', 'ArrowElectronics/libiio', 'ArrowElectronics/pyadi-iio', 'ArrowElectronics/no-OS', 'ArrowElectronics/arrow-adi-intel-psg']
+        statsRepo: ['ArrowElectronics/data-storm-daq', 'ArrowElectronics/10BASE-T1L-MC', 'ArrowElectronics/BMCU', 'ArrowElectronics/Reconfigurable-Industrial-Robotics-Platform']
       fail-fast: false
       max-parallel: 1
     steps:
