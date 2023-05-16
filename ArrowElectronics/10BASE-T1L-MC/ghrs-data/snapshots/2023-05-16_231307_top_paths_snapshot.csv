@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ArrowElectronics/10BASE-T1L-MC,15,14
+/ArrowElectronics/10BASE-T1L-MC/tree/main/HW_Package,10,8
+/ArrowElectronics/10BASE-T1L-MC/tree/main/HW_Package/Schematics,7,4
+/ArrowElectronics/10BASE-T1L-MC/tree/main/FW_Package,7,3
+/ArrowElectronics/10BASE-T1L-MC/tree/main/FW_Package/10BASE-T1L-MC_SourceCode,6,3
+/ArrowElectronics/10BASE-T1L-MC/blob/main/HW_Package/Schematics/eI_AIT1L_16_00970_02.pdf,5,3
+/ArrowElectronics/10BASE-T1L-MC/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/.cproject,3,1
+/ArrowElectronics/10BASE-T1L-MC/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/.project,2,1
+/ArrowElectronics/10BASE-T1L-MC/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/common/hal/hal.c,1,1
+/ArrowElectronics/10BASE-T1L-MC/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/common/hal/mdio_gpio/mdio_gpio.h,1,1
