@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ArrowElectronics/10BASE-T1L-MC,30,21
+/ArrowElectronics/10BASE-T1L-MC/tree/main/HW_Package,26,7
+/ArrowElectronics/10BASE-T1L-MC/tree/main/FW_Package,24,7
+/ArrowElectronics/10BASE-T1L-MC/tree/main/FW_Package/10BASE-T1L-MC_SourceCode,24,6
+/ArrowElectronics/10BASE-T1L-MC/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/src/main.c,20,5
+/ArrowElectronics/10BASE-T1L-MC/tree/main/FW_Package/10BASE-T1L-MC_SourceCode/src,18,6
+/ArrowElectronics/10BASE-T1L-MC/tree/main/Manuals,14,4
+/ArrowElectronics/10BASE-T1L-MC/tree/main/ME_Package,14,2
+/ArrowElectronics/10BASE-T1L-MC/tree/main/HW_Package/Schematics,13,6
+/ArrowElectronics/10BASE-T1L-MC/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/src/adi_phy.c,12,5
