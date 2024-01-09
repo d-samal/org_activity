@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ArrowElectronics/BMCU/tree/Development/Source/BMS_Master,42,5
+/ArrowElectronics/BMCU/tree/Development/Source,33,5
+/ArrowElectronics/BMCU/tree/Development/Source/BMS_Master/Drivers,32,3
+/ArrowElectronics/BMCU/tree/Development/Source/BMS_Master/Source,25,3
+/ArrowElectronics/BMCU/tree/Development/Source/ADI_BMS_UI,23,6
+/ArrowElectronics/BMCU/blob/Development/Source/ADI_BMS_UI/serial_communication.py,20,5
+/ArrowElectronics/BMCU/blob/Development/Source/BMS_Master/Drivers/bms_can.c,20,2
+/ArrowElectronics/BMCU/tree/Development/Source/BMS_Master/Libraries,18,3
+/ArrowElectronics/BMCU,14,9
+/ArrowElectronics/BMCU/blob/Development/Source/BMS_Master/Drivers/bms_can.h,14,2
