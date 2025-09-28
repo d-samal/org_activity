@@ -1,5 +1,5 @@
 % Statistics for ArrowElectronics/10BASE-T1L-MC
-% Generated for [ArrowElectronics/10BASE-T1L-MC](https://github.com/ArrowElectronics/10BASE-T1L-MC) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-27 23:16 UTC.
+% Generated for [ArrowElectronics/10BASE-T1L-MC](https://github.com/ArrowElectronics/10BASE-T1L-MC) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-28 23:16 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `arrow.com`, 03: `robruark.com`, 04: `arrow.de`, 05: `Bing`, 06: `statics.teams.cdn.office.net`, 07: `DuckDuckGo`, 08: `github.com`, 09: `yandex.ru`, 10: `arrowelectronics.sharepoint.com`, 11: `ez.analog.com`, 12: `cn.bing.com`, 13: `com.google.android.gm`, 14: `devinfo.roedermark.ceotronics.com`, 15: `web.telegram.org`
+Top 15 referrers: 01: `Google`, 02: `arrow.com`, 03: `robruark.com`, 04: `arrow.de`, 05: `Bing`, 06: `statics.teams.cdn.office.net`, 07: `DuckDuckGo`, 08: `github.com`, 09: `yandex.ru`, 10: `ez.analog.com`, 11: `cn.bing.com`, 12: `arrowelectronics.sharepoint.com`, 13: `kkgithub.com`, 14: `devinfo.roedermark.ceotronics.com`, 15: `microchip.lightning.force.com`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `arrow.com`, 03: `robruark.com`, 04: `arrow.
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/HW_Package`, 03: `/tree/main/FW_Package`, 04: `/tree/main/FW_Package/10BASE-T1L-MC_SourceCode`, 05: `/wiki`, 06: `/tree/main/HW_Package/Schematics`, 07: `/blob/main/HW_Package/Schematics/eI_AIT1L_16_00970_02.pdf`, 08: `/tree/main/Manuals`, 09: `/tree/main`, 10: `/blob/main/README.md`, 11: `/blob/main/Manuals/10ASE-T1L_Quick%20Start%20Guide.pdf`, 12: `/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/src/main.c`, 13: `/blob/main/Manuals/10BASE-T1L-MC_User%20Manual.pdf`, 14: `/tree/main/HW_Package/Gerber`, 15: `/tree/main/Wiki_Page_Images`
+Top 15 paths: 01: `/`, 02: `/tree/main/HW_Package`, 03: `/tree/main/FW_Package`, 04: `/tree/main/FW_Package/10BASE-T1L-MC_SourceCode`, 05: `/wiki`, 06: `/tree/main/HW_Package/Schematics`, 07: `/blob/main/HW_Package/Schematics/eI_AIT1L_16_00970_02.pdf`, 08: `/tree/main/Manuals`, 09: `/tree/main`, 10: `/blob/main/FW_Package/10BASE-T1L-MC_SourceCode/src/main.c`, 11: `/blob/main/README.md`, 12: `/blob/main/Manuals/10ASE-T1L_Quick%20Start%20Guide.pdf`, 13: `/blob/main/Manuals/10BASE-T1L-MC_User%20Manual.pdf`, 14: `/tree/main/HW_Package/Gerber`, 15: `/tree/main/Wiki_Page_Images`
 
 
 <script type="text/javascript">
