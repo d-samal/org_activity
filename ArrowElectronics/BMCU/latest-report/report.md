@@ -1,5 +1,5 @@
 % Statistics for ArrowElectronics/BMCU
-% Generated for [ArrowElectronics/BMCU](https://github.com/ArrowElectronics/BMCU) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-27 23:17 UTC.
+% Generated for [ArrowElectronics/BMCU](https://github.com/ArrowElectronics/BMCU) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-28 23:17 UTC.
 
 
 ## Views
@@ -71,7 +71,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `cn.bing.com`, 03: `github.com`, 04: `arrow.com`, 05: `Bing`, 06: `yandex.ru`, 07: `youtube.com`, 08: `web.telegram.org`, 09: `ecosia.org`, 10: `usc-powerpoint.officeapps.live.com`, 11: `github-wiki-see.page`, 12: `search.brave.com`, 13: `confluence.analog.com`, 14: `StartPage`, 15: `analog.com`
+Top 15 referrers: 01: `Google`, 02: `cn.bing.com`, 03: `github.com`, 04: `arrow.com`, 05: `Bing`, 06: `yandex.ru`, 07: `youtube.com`, 08: `analog.com`, 09: `StartPage`, 10: `DuckDuckGo`, 11: `web.telegram.org`, 12: `github-wiki-see.page`, 13: `chatgpt.com`, 14: `ecosia.org`, 15: `Baidu`
 
 
 
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `Google`, 02: `cn.bing.com`, 03: `github.com`, 04: `arrow.
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/wiki`, 02: `/actions`, 03: `/`, 04: `/tree/Development/Source/BMS_Master`, 05: `/blob/Development/Executable/BMS%20Application/BMS-GUI.exe`, 06: `/tree/Development/Source`, 07: `/blob/Development/Documents/ei_SW_BMS_GUI_User_Guide.pdf`, 08: `/tree/Development/Source/ADI_BMS_UI`, 09: `/blob/Development/Documents/Schematic.pdf`, 10: `/tree/Development`, 11: `/tree/Development/Documents`, 12: `/tree/Development/Executable/BMS%20Application`, 13: `/tree/Development/Wiki/images`, 14: `/tree/Development/Source/BMS_Master/Source`, 15: `/blob/Development/Source/ADI_BMS_UI/serial_communication.py`
+Top 15 paths: 01: `/wiki`, 02: `/actions`, 03: `/`, 04: `/tree/Development/Source/BMS_Master`, 05: `/blob/Development/Executable/BMS%20Application/BMS-GUI.exe`, 06: `/tree/Development/Source`, 07: `/blob/Development/Documents/ei_SW_BMS_GUI_User_Guide.pdf`, 08: `/tree/Development/Executable/BMS%20Application`, 09: `/blob/Development/Documents/Schematic.pdf`, 10: `/tree/Development/Source/ADI_BMS_UI`, 11: `/tree/Development`, 12: `/tree/Development/Documents`, 13: `/tree/Development/Wiki/images`, 14: `/blob/Development/Source/ADI_BMS_UI/serial_communication.py`, 15: `/tree/Development/Source/BMS_Master/Source`
 
 
 <script type="text/javascript">
