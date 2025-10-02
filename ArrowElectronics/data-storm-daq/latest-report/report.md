@@ -1,5 +1,5 @@
 % Statistics for ArrowElectronics/data-storm-daq
-% Generated for [ArrowElectronics/data-storm-daq](https://github.com/ArrowElectronics/data-storm-daq) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-01 23:14 UTC.
+% Generated for [ArrowElectronics/data-storm-daq](https://github.com/ArrowElectronics/data-storm-daq) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-02 23:15 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `analog.com`, 02: `Google`, 03: `github-wiki-see.page`, 04: `github.com`, 05: `statics.teams.cdn.office.net`, 06: `arrow.com`, 07: `patreon.com`, 08: `ez.analog.com`, 09: `intel--c.vf.force.com`, 10: `Baidu`, 11: `design-reuse.com`, 12: `statics.gov.teams.microsoft.us`, 13: `cn.bing.com`, 14: `premiersupport.intel.com`, 15: `com.google.android.gm`
+Top 15 referrers: 01: `analog.com`, 02: `Google`, 03: `github-wiki-see.page`, 04: `github.com`, 05: `statics.teams.cdn.office.net`, 06: `arrow.com`, 07: `patreon.com`, 08: `intel--c.vf.force.com`, 09: `ez.analog.com`, 10: `Baidu`, 11: `design-reuse.com`, 12: `Bing`, 13: `com.google.android.gm`, 14: `cn.bing.com`, 15: `statics.gov.teams.microsoft.us`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `analog.com`, 02: `Google`, 03: `github-wiki-see.page`, 04
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/wiki/Datastorm-DAQ-GHRD-top-level-files`, 02: `/`, 03: `/wiki`, 04: `/issues`, 05: `/wiki/ADRV9002-Platform-User-Guide`, 06: `/wiki/AD7768-Platform-User-Guide`, 07: `/wiki/Datastorm-DAQ-GHRD-create-hps`, 08: `/wiki/Golden-System-Reference-Design-(GSRD)`, 09: `/blob/master/images/SCH-TEI0022-03.PDF`, 10: `/wiki/ADRV9002-Platform-Build-HDL`, 11: `/wiki/ADRV9002-Platform-Build-no%E2%80%90OS`, 12: `/wiki/ADRV9002-Reference-Platform`, 13: `/wiki/prerequisites-for-developers`, 14: `/wiki/AD7768-Platform-Quick-Start-Guide`, 15: `/wiki/Datastorm-DAQ-GHRD-add-display`
+Top 15 paths: 01: `/wiki/Datastorm-DAQ-GHRD-top-level-files`, 02: `/`, 03: `/wiki`, 04: `/issues`, 05: `/wiki/ADRV9002-Platform-User-Guide`, 06: `/wiki/AD7768-Platform-User-Guide`, 07: `/wiki/Datastorm-DAQ-GHRD-create-hps`, 08: `/blob/master/images/SCH-TEI0022-03.PDF`, 09: `/wiki/Golden-System-Reference-Design-(GSRD)`, 10: `/wiki/ADRV9002-Platform-Build-HDL`, 11: `/wiki/ADRV9002-Platform-Build-no%E2%80%90OS`, 12: `/wiki/AD7768-Platform-Quick-Start-Guide`, 13: `/wiki/prerequisites-for-developers`, 14: `/wiki/ADRV9002-Reference-Platform`, 15: `/wiki/AD7768-Platform-Architecture`
 
 
 <script type="text/javascript">
